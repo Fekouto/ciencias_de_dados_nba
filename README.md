@@ -8,7 +8,7 @@ CP1: coleta e validação. Recorte: dez temporadas regulares, de 2015–16 a 202
 
 O projeto utiliza a alternativa de uma fonte complexa via API prevista no enunciado. Os três endpoints pertencem à mesma fonte, NBA Stats; o pacote comunitário `nba_api` é o meio de acesso, não uma segunda fonte.
 
-Esta documentação descreve a versão revisada do notebook organizada em nove módulos. O nome sugerido para esse notebook é `CP1_coleta_revisada.ipynb`; caso tenha sido salvo com outro nome, abra o arquivo correspondente. Não confundir com versões anteriores de experimentação.
+Esta documentação descreve a versão revisada do notebook organizada em nove módulos. O nome sugerido para esse notebook é `CP1_nba.ipynb`; caso tenha sido salvo com outro nome, abra o arquivo correspondente. Não confundir com versões anteriores de experimentação.
 
 ## Dados e finalidade
 
