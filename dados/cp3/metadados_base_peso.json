@@ -1,0 +1,34 @@
+{
+  "origem": "Base analítica tratada do CP2",
+  "unidade_de_observacao": "Uma tentativa de arremesso",
+  "colunas": [
+    "GAME_ID",
+    "GAME_EVENT_ID",
+    "PLAYER_ID",
+    "SEASON",
+    "PESO_KG",
+    "ALTURA_CM",
+    "SHOT_MADE_FLAG",
+    "DISTANCIA_M",
+    "TIPO_TENTATIVA"
+  ],
+  "tipos_dados": {
+    "GAME_ID": "string",
+    "GAME_EVENT_ID": "string",
+    "PLAYER_ID": "string",
+    "SEASON": "string",
+    "PESO_KG": "float64",
+    "ALTURA_CM": "float64",
+    "SHOT_MADE_FLAG": "Int8",
+    "DISTANCIA_M": "float64",
+    "TIPO_TENTATIVA": "string"
+  },
+  "contagens": {
+    "eventos": 2098123,
+    "jogadores_distintos": 1441,
+    "perfis_jogador_temporada": 5356,
+    "acertos": 972907,
+    "erros": 1125216,
+    "sem_distancia": 341
+  }
+}
